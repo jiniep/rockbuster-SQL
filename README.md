@@ -1,4 +1,4 @@
-# Rockbuster Stealth Data Analysis Project
+# Rockbuster Stealth Data Analysis - SQL
 
 ## Project Overview
 
