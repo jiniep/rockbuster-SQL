@@ -21,7 +21,7 @@ The Rockbuster Stealth Management Board business questions for their 2020 compan
 
 Rockbuster has a relational database featuring a snowflake schema that contains rentals, payments, stores, movies and staff data. There are total of 15 tables. [Data Dictionary](https://github.com/jiniep/rockbuster-SQL/blob/main/Rockbuster-Data_Summary.xlsx) and [Entity Relationship Diagram](https://github.com/jiniep/rockbuster-SQL/blob/main/Rockbuster%20Database%20ERD.png) can be found in the github repositary.
 
-Data Source: [Rockbuster](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+Data Source: [Rockbuster Dataset](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
 ## Tools
 
@@ -33,8 +33,14 @@ Data Source: [Rockbuster](http://www.postgresqltutorial.com/wp-content/uploads/2
   - Tableau ([Dowload macOS](https://public-pantheon.tableau.com/en-us/s/download))
   - Powerpoint
 
-## SQL Tasks
+## SQL Related Tasks
+- Data extraction
+- Data Cleaning and Summarizing
+- Joining Tables
+- Performing Subqueries
+- Using Common Table Expressions
 
-## Visualisattion
+## Visualisation & Presentation
+- Tableau was used to created visualisations for the presentation. Click [here](https://public.tableau.com/app/profile/jinita.patel/viz/RockbusterOnlineVideoRentalStoreAnalysis/MapRegionalTopGenres) to access Tableau
+- Powerpoint was used to create the presentation. PDF version can be found [here](https://github.com/jiniep/rockbuster-SQL/blob/main/Rockbuster%202020%20Strategy.pdf) 
 
-## Presentation
