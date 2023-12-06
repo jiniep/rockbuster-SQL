@@ -14,7 +14,7 @@ GROUP BY
 HAVING COUNT(*) > 1
 
 
---check for duplicates by first, last name and email address
+--check for duplicates customers using first, last name and email address
 SELECT 
 	c.first_name,
 	c.last_name,
