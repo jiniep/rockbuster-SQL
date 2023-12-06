@@ -19,9 +19,9 @@ The Rockbuster Stealth Management Board business questions for their 2020 compan
 
 ## Data Sources
 
-Rockbuster has a relational database featuring a snowflake schema that contains rentals, payments, stores, movies and staff data. There are total of 15 tables. Data Dictionary and Entity Relationship Diagram can be found in the github repositary  
+Rockbuster has a relational database featuring a snowflake schema that contains rentals, payments, stores, movies and staff data. There are total of 15 tables. [Data Dictionary](https://github.com/jiniep/rockbuster-SQL/blob/main/Rockbuster-Data_Summary.xlsx) and [Entity Relationship Diagram](https://github.com/jiniep/rockbuster-SQL/blob/main/Rockbuster%20Database%20ERD.png) can be found in the github repositary  
 
-
+Data Source: [Rockbuster](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
 ## Tools
 
