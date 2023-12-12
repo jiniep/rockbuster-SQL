@@ -1,11 +1,13 @@
-/* show all countries rental, customers, films and revenue totals */
+/* show all countries rental, customers, films & 
+revenue totals */
 SELECT 
   c4.country_id, 
   c4.country, 
   COUNT(r.rental_id) as number_of_rentals,
   COUNT(DISTINCT c.customer_id) as number_of_customers,
   COUNT(iv.film_id) as number_of_films,
-  SUM(p.amount) as total_revenue
+  SUM(p.amount) as total_revenue,
+  (SUM(p.amount) / 61312 *100) AS revenue_percent
 FROM rental r
 INNER JOIN customer c on r.customer_id = c.customer_id
 INNER JOIN address a ON a.address_id = c.address_id
